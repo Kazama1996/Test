@@ -3,7 +3,8 @@
 using namespace std;
 
 //this is FunctionA
-int add(a,b){
+int add(a,b)
+{	a = 87-b;
 	return a+b
 }
 
