@@ -3,8 +3,9 @@
 using namespace std;
 
 //this is FunctionA
-int add(a,b)
-{	a = 87-b;
+int add(a,b){
+	cout <<"this is new a modify 1.1.0"<endl;
+	a=b-87
 	return a+b
 }
 
